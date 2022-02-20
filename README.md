@@ -1,0 +1,3 @@
+# Spam-Email-Detection-Using-Naive-Bayes
+
+In today’s globalized world, email is the most commonly used means of a primary source of communication. This communication can vary from personal, business, corporate to government. With the rapid increase in email usage, there has also been an increase in SPAM emails. SPAM emails, also known as junk email involve nearly identical messages sent to numerous recipients by email. Apart from being annoying, spam emails can also pose a security threat to the computer system. It is estimated that spam cost businesses on the order of $100 billion in 2007. In this project, we use Multinomial Naive Bayes to perform automatic spam filtering to use emails effectively.
